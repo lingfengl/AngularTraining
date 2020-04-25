@@ -1,0 +1,19 @@
+{
+  "name": "learnpackage",
+  "version": "1.0.0",
+  "description": "This is to learn npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "rxjs": "^6.5.5",
+    "zone.js": "^0.10.3"
+  }
+}
